@@ -11,6 +11,20 @@
 	position:absolute; 
     width:100%; left:0;
     text-align:center;
-    margin:auto;
-    
+    margin:auto;   
+}
+
+.col-md-4 col-sm-6 col-xs-12{
+	padding-top: 20px;
+	margin-top: 50px;
+}
+
+.row{
+	text-align: center;
+	margin: auto;
+	padding: 20px;
+	
+}
+h2 p {
+	margin: 20px;
 }

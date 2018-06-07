@@ -1,0 +1,16 @@
+.jumbotron{
+	background-image: url('../images/bg2.jpg');
+
+}
+
+.textjbt h2{
+	text-align: center;
+}
+
+.btnjb{
+	position:absolute; 
+    width:100%; left:0;
+    text-align:center;
+    margin:auto;
+    
+}
